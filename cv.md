@@ -28,6 +28,6 @@ I'm 20 years old. I entered this course in order to gain and consolidate knowled
 Reshetnev Siberian State University of Science and Technology(*in process*)  
 Rsschool(*in process*)
 
-## Languages 
+## Languages
 Russian (*native*)  
 English A2
